@@ -1,4 +1,4 @@
-# additions
+# See https://wiki.gpii.net/w/Developer_Space/Components
 Suggest additions to the [GPII developer space](http://ds.gpii.net/components)
 
 [Open an issue](https://github.com/dspace-projects/additions/issues/new) if you find a github repository that contributes to accessibility that we have not yet [starred](https://github.com/dspace-projects?tab=stars) in this repository.
